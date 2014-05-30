@@ -1,0 +1,64 @@
+body {
+	font-family: proxima-nova, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #444;
+	background-color: #ffffff;
+}
+
+#wrap {
+	margin: 50px auto -100px;
+	padding: 0 0 100px;
+	min-height: 100%;
+	height: auto !important;
+}
+
+.jumbotron{
+	background-color: #000;
+	border-top: 3px solid #444;
+	border-bottom: 3px solid #ddd;
+	margin-bottom: 0;
+	margin-top: 50px;
+	padding: 25px 0px 25px 0px;
+}
+
+section {
+	padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.jumbotron-lead {
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+  	margin-bottom: 20px;
+  	font-size: 16px;
+  	font-weight: 200;
+  	line-height: 1.2;
+  	font-family: 
+}
+@media (min-width: 768px) {
+  	.mylead {
+    	font-size: 21px;
+  	}
+}
+
+h1,
+h2 {
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+	color: #CC3300;
+}
+
+#footer {
+	width: 100%;
+	margin-top: 100px;
+	padding: 25px;
+	background-color: #222;
+	border-top: 3px solid #ddd;
+}
+
+.bullet-text {
+    text-align: justify;
+    font-weight: 400;
+    font-size: 16px;
+    color: #333;
+}
+
